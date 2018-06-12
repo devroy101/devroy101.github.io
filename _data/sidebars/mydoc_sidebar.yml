@@ -35,10 +35,6 @@ entries:
       url: /mydoc_supported_features.html
       output: web, pdf
 
-    - title: About the theme author
-      url: /mydoc_about.html
-      output: web, pdf
-
     - title: Support
       url: /mydoc_support.html
       output: web, pdf
