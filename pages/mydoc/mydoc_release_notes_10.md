@@ -9,5 +9,10 @@ permalink: mydoc_release_notes_10.html
 folder: mydoc
 ---
 
-## Product Features
+## TVoS 1.0 Release Notes
+We're pleased to present TVoS 1.0.
+
+Highlights
+
+
 
